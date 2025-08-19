@@ -1,5 +1,6 @@
 # MP3-Batch-Tagger
 A Python GUI app for batch editing MP3 metadata with auto-numbering and dark theme.
+<img width="602" height="872" alt="Example" src="https://github.com/user-attachments/assets/ab9b7ab6-bd8e-4152-a81f-1200932cf373" />
 
 Overview
 
